@@ -1,0 +1,362 @@
+2025-04-07 06:03:06,071 - __main__ - INFO - Webインターフェースを起動: ポート 5000
+2025-04-07 06:08:52,770 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 06:08:52,812 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.2.103:5002
+2025-04-07 06:08:52,812 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 06:08:52,813 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 06:08:53,819 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 06:08:53,841 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 06:08:53,852 - werkzeug - INFO -  * Debugger PIN: 103-221-200
+2025-04-07 06:09:05,660 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:05] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+2025-04-07 06:09:05,661 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:05] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+2025-04-07 06:09:05,662 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-07 06:09:05,867 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:05] "GET / HTTP/1.1" 200 -
+2025-04-07 06:09:08,389 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:08] "GET / HTTP/1.1" 200 -
+2025-04-07 06:09:08,475 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:08] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-04-07 06:09:08,476 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:08] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-07 06:09:08,487 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:08] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-04-07 06:09:09,109 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-07 06:09:19,878 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:19] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2025-04-07 06:09:19,904 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:19] "GET /analyze?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-04-07 06:09:19,904 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:19] "GET /analyze?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-04-07 06:09:19,913 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:19] "GET /analyze?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-04-07 06:09:20,049 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:20] "GET /analyze?__debugger__=yes&cmd=resource&f=console.png&s=sAoKwdgeFJtmmF2QiQ9v HTTP/1.1" 200 -
+2025-04-07 06:09:20,090 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:20] "GET /analyze?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-04-07 06:09:20,381 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:09:20] "[36mGET /analyze?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-04-07 06:14:50,728 - werkzeug - INFO -  * Detected change in '/Users/tatsuokw2021/Desktop/seo_master_package/src/analyzers/keyword_analyzer.py', reloading
+2025-04-07 06:14:50,982 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 06:14:52,378 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 06:14:52,403 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 06:14:52,412 - werkzeug - INFO -  * Debugger PIN: 103-221-200
+2025-04-07 06:15:27,934 - werkzeug - INFO -  * Detected change in '/Users/tatsuokw2021/Desktop/seo_master_package/src/analyzers/keyword_analyzer.py', reloading
+2025-04-07 06:15:28,083 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 06:15:29,432 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 06:15:29,460 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 06:15:29,470 - werkzeug - INFO -  * Debugger PIN: 103-221-200
+2025-04-07 06:15:48,232 - werkzeug - INFO -  * Detected change in '/Users/tatsuokw2021/Desktop/seo_master_package/src/analyzers/keyword_analyzer.py', reloading
+2025-04-07 06:15:48,395 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 06:15:49,714 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 06:15:49,766 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 06:15:49,777 - werkzeug - INFO -  * Debugger PIN: 103-221-200
+2025-04-07 06:18:38,315 - werkzeug - INFO -  * Detected change in '/Users/tatsuokw2021/Desktop/seo_master_package/src/core/analyzer.py', reloading
+2025-04-07 06:18:38,485 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 06:18:39,846 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 06:18:39,874 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 06:18:39,884 - werkzeug - INFO -  * Debugger PIN: 103-221-200
+2025-04-07 06:19:33,400 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 06:19:33,440 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.2.103:5002
+2025-04-07 06:19:33,440 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 06:19:33,441 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 06:19:34,483 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 06:19:34,506 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 06:19:34,513 - werkzeug - INFO -  * Debugger PIN: 103-221-200
+2025-04-07 06:19:45,121 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:19:45] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 06:19:46,692 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:19:46] "GET / HTTP/1.1" 200 -
+2025-04-07 06:19:46,714 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:19:46] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-04-07 06:19:46,714 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:19:46] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-07 06:19:46,720 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:19:46] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 06:19:47,197 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:19:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-07 06:19:54,305 - src.analyzers.keyword_analyzer - WARNING - 指定された言語 'japanese' のストップワード設定でエラー: No such file or directory: '/Users/tatsuokw2021/nltk_data/corpora/stopwords/japanese'
+2025-04-07 06:19:56,553 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:19:56] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2025-04-07 06:19:56,597 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:19:56] "[36mGET /analyze?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-04-07 06:19:56,597 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:19:56] "[36mGET /analyze?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-04-07 06:19:56,610 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:19:56] "[36mGET /analyze?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-04-07 06:19:56,667 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:19:56] "GET /analyze?__debugger__=yes&cmd=resource&f=console.png&s=b4btJvoRPgtGfOShvSGA HTTP/1.1" 200 -
+2025-04-07 06:19:56,669 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:19:56] "[36mGET /analyze?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-04-07 06:23:25,920 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:23:25] "GET / HTTP/1.1" 200 -
+2025-04-07 06:23:25,946 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:23:25] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-04-07 06:23:25,947 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:23:25] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-07 06:23:25,954 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:23:25] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 06:23:26,438 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:23:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-07 06:33:33,138 - werkzeug - INFO -  * Detected change in '/Users/tatsuokw2021/Desktop/seo_master_package/src/core/analyzer.py', reloading
+2025-04-07 06:33:33,350 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 06:33:34,742 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 06:33:34,767 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 06:33:34,776 - werkzeug - INFO -  * Debugger PIN: 103-221-200
+2025-04-07 06:33:46,273 - werkzeug - INFO -  * Detected change in '/Users/tatsuokw2021/Desktop/seo_master_package/src/core/analyzer.py', reloading
+2025-04-07 06:33:46,421 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 06:33:47,529 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 06:33:47,552 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 06:33:47,558 - werkzeug - INFO -  * Debugger PIN: 103-221-200
+2025-04-07 06:34:10,493 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 06:34:10,541 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.2.103:5002
+2025-04-07 06:34:10,541 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 06:34:10,542 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 06:34:11,541 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 06:34:11,567 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 06:34:11,574 - werkzeug - INFO -  * Debugger PIN: 103-221-200
+2025-04-07 06:34:22,230 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:34:22] "GET / HTTP/1.1" 200 -
+2025-04-07 06:34:22,280 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:34:22] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-04-07 06:34:22,281 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:34:22] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-07 06:34:22,782 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:34:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-07 06:34:33,174 - src.analyzers.keyword_analyzer - WARNING - 指定された言語 'japanese' のストップワード設定でエラー: No such file or directory: '/Users/tatsuokw2021/nltk_data/corpora/stopwords/japanese'
+2025-04-07 06:34:33,206 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:34:33] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2025-04-07 06:34:33,252 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:34:33] "[36mGET /analyze?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-04-07 06:34:33,252 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:34:33] "[36mGET /analyze?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-04-07 06:34:33,266 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:34:33] "[36mGET /analyze?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-04-07 06:34:33,317 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:34:33] "GET /analyze?__debugger__=yes&cmd=resource&f=console.png&s=yELr5r7md03vvOjGMJBU HTTP/1.1" 200 -
+2025-04-07 06:34:33,318 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:34:33] "[36mGET /analyze?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-04-07 06:43:15,289 - werkzeug - INFO -  * Detected change in '/Users/tatsuokw2021/Desktop/seo_master_package/src/analyzers/technical_analyzer.py', reloading
+2025-04-07 06:43:15,528 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 06:43:16,918 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 06:43:16,944 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 06:43:16,952 - werkzeug - INFO -  * Debugger PIN: 103-221-200
+2025-04-07 06:43:53,168 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 06:43:53,210 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.2.103:5002
+2025-04-07 06:43:53,210 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 06:43:53,211 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 06:43:54,242 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 06:43:54,263 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 06:43:54,271 - werkzeug - INFO -  * Debugger PIN: 103-221-200
+2025-04-07 06:44:00,746 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:44:00] "GET / HTTP/1.1" 200 -
+2025-04-07 06:44:00,806 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:44:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-07 06:44:00,806 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:44:00] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 06:44:00,816 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:44:00] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 06:44:03,324 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:44:03] "GET / HTTP/1.1" 200 -
+2025-04-07 06:44:03,346 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:44:03] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-07 06:44:03,350 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:44:03] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-04-07 06:44:03,357 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:44:03] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 06:44:03,971 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:44:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-07 06:44:12,052 - src.analyzers.keyword_analyzer - WARNING - 指定された言語 'japanese' のストップワード設定でエラー: No such file or directory: '/Users/tatsuokw2021/nltk_data/corpora/stopwords/japanese'
+2025-04-07 06:44:12,085 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:44:12] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2025-04-07 06:44:12,116 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:44:12] "[36mGET /analyze?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-04-07 06:44:12,117 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:44:12] "[36mGET /analyze?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-04-07 06:44:12,124 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:44:12] "[36mGET /analyze?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-04-07 06:44:12,177 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:44:12] "GET /analyze?__debugger__=yes&cmd=resource&f=console.png&s=pozEXaNL6e7kVv5sPbed HTTP/1.1" 200 -
+2025-04-07 06:44:12,180 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:44:12] "[36mGET /analyze?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-04-07 06:49:17,030 - werkzeug - INFO -  * Detected change in '/Users/tatsuokw2021/Desktop/seo_master_package/src/analyzers/technical_analyzer.py', reloading
+2025-04-07 06:49:17,271 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 06:49:18,655 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 06:49:18,680 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 06:49:18,689 - werkzeug - INFO -  * Debugger PIN: 103-221-200
+2025-04-07 06:49:41,165 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 06:49:41,211 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.2.103:5002
+2025-04-07 06:49:41,211 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 06:49:41,212 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 06:49:42,239 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 06:49:42,262 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 06:49:42,268 - werkzeug - INFO -  * Debugger PIN: 103-221-200
+2025-04-07 06:49:51,718 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:49:51] "GET / HTTP/1.1" 200 -
+2025-04-07 06:49:51,762 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:49:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-07 06:49:51,765 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:49:51] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 06:49:51,776 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:49:51] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 06:49:53,357 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:49:53] "GET / HTTP/1.1" 200 -
+2025-04-07 06:49:53,376 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:49:53] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-07 06:49:53,380 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:49:53] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-04-07 06:49:53,384 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:49:53] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 06:49:54,207 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:49:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-07 06:50:02,092 - src.analyzers.keyword_analyzer - WARNING - 指定された言語 'japanese' のストップワード設定でエラー: No such file or directory: '/Users/tatsuokw2021/nltk_data/corpora/stopwords/japanese'
+2025-04-07 06:50:02,120 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:50:02] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2025-04-07 06:50:02,152 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:50:02] "[36mGET /analyze?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-04-07 06:50:02,154 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:50:02] "[36mGET /analyze?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-04-07 06:50:02,162 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:50:02] "[36mGET /analyze?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-04-07 06:50:02,213 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:50:02] "GET /analyze?__debugger__=yes&cmd=resource&f=console.png&s=fPrkOH6RQnfFv7AuWy7Q HTTP/1.1" 200 -
+2025-04-07 06:50:02,214 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:50:02] "[36mGET /analyze?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-04-07 06:52:37,990 - werkzeug - INFO -  * Detected change in '/Users/tatsuokw2021/Desktop/seo_master_package/src/core/analyzer.py', reloading
+2025-04-07 06:52:38,185 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 06:52:39,544 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 06:52:39,572 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 06:52:39,581 - werkzeug - INFO -  * Debugger PIN: 103-221-200
+2025-04-07 06:53:10,192 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 06:53:10,257 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.2.103:5002
+2025-04-07 06:53:10,257 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 06:53:10,258 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 06:53:11,287 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 06:53:11,313 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 06:53:11,322 - werkzeug - INFO -  * Debugger PIN: 103-221-200
+2025-04-07 06:53:16,700 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:53:16] "GET / HTTP/1.1" 200 -
+2025-04-07 06:53:16,784 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:53:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-07 06:53:16,785 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:53:16] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 06:53:16,797 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:53:16] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 06:53:18,217 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:53:18] "GET / HTTP/1.1" 200 -
+2025-04-07 06:53:18,248 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:53:18] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-07 06:53:18,251 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:53:18] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-04-07 06:53:18,400 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:53:18] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 06:53:18,727 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:53:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-07 06:53:27,618 - src.analyzers.keyword_analyzer - WARNING - 指定された言語 'japanese' のストップワード設定でエラー: No such file or directory: '/Users/tatsuokw2021/nltk_data/corpora/stopwords/japanese'
+2025-04-07 06:53:27,653 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:53:27] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2025-04-07 06:53:27,687 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:53:27] "[36mGET /analyze?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-04-07 06:53:27,687 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:53:27] "[36mGET /analyze?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-04-07 06:53:27,693 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:53:27] "[36mGET /analyze?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-04-07 06:53:27,750 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:53:27] "GET /analyze?__debugger__=yes&cmd=resource&f=console.png&s=Mb8tdS6dNDdUcxx9BbfX HTTP/1.1" 200 -
+2025-04-07 06:53:27,753 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:53:27] "[36mGET /analyze?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-04-07 06:57:16,115 - werkzeug - INFO -  * Detected change in '/Users/tatsuokw2021/Desktop/seo_master_package/src/analyzers/keyword_analyzer.py', reloading
+2025-04-07 06:57:16,368 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 06:57:18,633 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 06:57:18,660 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 06:57:18,675 - werkzeug - INFO -  * Debugger PIN: 103-221-200
+2025-04-07 06:58:52,417 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 06:58:52,457 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.2.103:5002
+2025-04-07 06:58:52,457 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 06:58:52,457 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 06:58:53,451 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 06:58:53,475 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 06:58:53,483 - werkzeug - INFO -  * Debugger PIN: 103-221-200
+2025-04-07 06:59:01,417 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:59:01] "GET / HTTP/1.1" 200 -
+2025-04-07 06:59:01,466 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:59:01] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 06:59:01,474 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:59:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-07 06:59:01,478 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:59:01] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 06:59:13,223 - src.analyzers.keyword_analyzer - WARNING - 指定された言語 'japanese' のストップワード設定でエラー: No such file or directory: '/Users/tatsuokw2021/nltk_data/corpora/stopwords/japanese'
+2025-04-07 06:59:13,308 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:59:13] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2025-04-07 06:59:13,340 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:59:13] "[36mGET /analyze?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-04-07 06:59:13,341 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:59:13] "[36mGET /analyze?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-04-07 06:59:13,347 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:59:13] "[36mGET /analyze?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-04-07 06:59:13,408 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:59:13] "GET /analyze?__debugger__=yes&cmd=resource&f=console.png&s=2uYwGlpK1DJfVynj8Qce HTTP/1.1" 200 -
+2025-04-07 06:59:13,409 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 06:59:13] "[36mGET /analyze?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-04-07 07:07:14,586 - werkzeug - INFO -  * Detected change in '/Users/tatsuokw2021/Desktop/seo_master_package/src/core/analyzer.py', reloading
+2025-04-07 07:07:14,826 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 07:07:16,217 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 07:07:16,244 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 07:07:16,253 - werkzeug - INFO -  * Debugger PIN: 103-221-200
+2025-04-07 07:07:33,976 - werkzeug - INFO -  * Detected change in '/Users/tatsuokw2021/Desktop/seo_master_package/src/core/analyzer.py', reloading
+2025-04-07 07:07:34,119 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 07:07:35,153 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 07:07:35,179 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 07:07:35,185 - werkzeug - INFO -  * Debugger PIN: 103-221-200
+2025-04-07 07:07:50,854 - werkzeug - INFO -  * Detected change in '/Users/tatsuokw2021/Desktop/seo_master_package/src/core/analyzer.py', reloading
+2025-04-07 07:07:51,002 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 07:07:52,383 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 07:07:52,405 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 07:07:52,412 - werkzeug - INFO -  * Debugger PIN: 103-221-200
+2025-04-07 07:08:32,959 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 07:08:33,014 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.2.103:5002
+2025-04-07 07:08:33,015 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 07:08:33,015 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 07:08:34,027 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 07:08:34,052 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 07:08:34,060 - werkzeug - INFO -  * Debugger PIN: 103-221-200
+2025-04-07 07:08:44,335 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:08:44] "GET / HTTP/1.1" 200 -
+2025-04-07 07:08:44,410 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:08:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-07 07:08:44,410 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:08:44] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 07:08:44,415 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:08:44] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 07:08:45,029 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:08:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-07 07:08:46,968 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:08:46] "GET / HTTP/1.1" 200 -
+2025-04-07 07:08:46,999 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:08:46] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-07 07:08:47,000 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:08:47] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-04-07 07:08:47,024 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:08:47] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 07:08:47,407 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:08:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-07 07:08:56,300 - src.analyzers.keyword_analyzer - WARNING - 指定された言語 'japanese' のストップワード設定でエラー: No such file or directory: '/Users/tatsuokw2021/nltk_data/corpora/stopwords/japanese'
+2025-04-07 07:08:56,409 - src.analyzers.keyword_analyzer - INFO - 基本キーワード分析完了: https://waocon.com/
+2025-04-07 07:08:56,409 - src.analyzers.keyword_analyzer - INFO - モックモードで検索ボリュームを生成します
+2025-04-07 07:08:56,411 - src.analyzers.keyword_analyzer - INFO - モックモードでキーワード難易度を生成します
+2025-04-07 07:08:56,411 - src.analyzers.keyword_analyzer - INFO - モックモードでキーワード順位を生成します
+2025-04-07 07:08:56,411 - src.analyzers.keyword_analyzer - INFO - モックモードで関連キーワードを生成します
+2025-04-07 07:08:56,411 - src.analyzers.keyword_analyzer - INFO - 高度なキーワード分析完了: https://waocon.com/
+2025-04-07 07:08:56,413 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:08:56] "[32mPOST /analyze HTTP/1.1[0m" 302 -
+2025-04-07 07:08:56,462 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:08:56] "[35m[1mGET /result/seo_report_20250407_070856.json HTTP/1.1[0m" 500 -
+2025-04-07 07:08:56,491 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:08:56] "GET /result/seo_report_20250407_070856.json?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-04-07 07:08:56,491 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:08:56] "GET /result/seo_report_20250407_070856.json?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-04-07 07:08:56,503 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:08:56] "GET /result/seo_report_20250407_070856.json?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-04-07 07:08:56,552 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:08:56] "GET /result/seo_report_20250407_070856.json?__debugger__=yes&cmd=resource&f=console.png&s=bJuQIzvZw9Go9qNllSxN HTTP/1.1" 200 -
+2025-04-07 07:08:56,553 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:08:56] "GET /result/seo_report_20250407_070856.json?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-04-07 07:08:56,704 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:08:56] "[36mGET /result/seo_report_20250407_070856.json?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-04-07 07:16:45,540 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:16:45] "GET / HTTP/1.1" 200 -
+2025-04-07 07:16:45,609 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:16:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-07 07:16:45,612 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:16:45] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 07:16:45,628 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:16:45] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 07:16:48,272 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:16:48] "GET / HTTP/1.1" 200 -
+2025-04-07 07:17:27,903 - src.analyzers.keyword_analyzer - WARNING - 指定された言語 'japanese' のストップワード設定でエラー: No such file or directory: '/Users/tatsuokw2021/nltk_data/corpora/stopwords/japanese'
+2025-04-07 07:17:27,954 - src.analyzers.keyword_analyzer - INFO - 基本キーワード分析完了: https://waocon.com/
+2025-04-07 07:17:27,954 - src.analyzers.keyword_analyzer - INFO - モックモードで検索ボリュームを生成します
+2025-04-07 07:17:27,954 - src.analyzers.keyword_analyzer - INFO - モックモードでキーワード難易度を生成します
+2025-04-07 07:17:27,954 - src.analyzers.keyword_analyzer - INFO - モックモードでキーワード順位を生成します
+2025-04-07 07:17:27,955 - src.analyzers.keyword_analyzer - INFO - モックモードで関連キーワードを生成します
+2025-04-07 07:17:27,955 - src.analyzers.keyword_analyzer - INFO - 高度なキーワード分析完了: https://waocon.com/
+2025-04-07 07:17:27,957 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:17:27] "[32mPOST /analyze HTTP/1.1[0m" 302 -
+2025-04-07 07:17:28,012 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:17:28] "[35m[1mGET /result/seo_report_20250407_071727.json HTTP/1.1[0m" 500 -
+2025-04-07 07:17:28,059 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:17:28] "GET /result/seo_report_20250407_071727.json?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-04-07 07:17:28,064 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:17:28] "GET /result/seo_report_20250407_071727.json?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-04-07 07:17:28,071 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:17:28] "GET /result/seo_report_20250407_071727.json?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-04-07 07:17:28,186 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:17:28] "GET /result/seo_report_20250407_071727.json?__debugger__=yes&cmd=resource&f=console.png&s=bJuQIzvZw9Go9qNllSxN HTTP/1.1" 200 -
+2025-04-07 07:17:28,187 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:17:28] "GET /result/seo_report_20250407_071727.json?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-04-07 07:17:28,391 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:17:28] "[36mGET /result/seo_report_20250407_071727.json?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-04-07 07:23:34,772 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:23:34] "GET /result/seo_report_20250407_071727.json HTTP/1.1" 200 -
+2025-04-07 07:23:34,821 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:23:34] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-04-07 07:23:34,822 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:23:34] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-04-07 07:23:34,823 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:23:34] "GET /static/js/result.js HTTP/1.1" 200 -
+2025-04-07 07:23:34,829 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:23:34] "GET /static/js/result.js HTTP/1.1" 200 -
+2025-04-07 07:23:34,832 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:23:34] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 07:23:35,388 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:23:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-07 07:24:03,396 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:24:03] "GET /download/seo_report_20250407_071727.json HTTP/1.1" 200 -
+2025-04-07 07:24:22,078 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:24:22] "GET / HTTP/1.1" 200 -
+2025-04-07 07:24:22,127 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:24:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-07 07:24:22,128 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:24:22] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 07:24:22,139 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:24:22] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 07:24:24,347 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:24:24] "[31m[1mGET /analyze HTTP/1.1[0m" 405 -
+2025-04-07 07:24:32,246 - src.analyzers.keyword_analyzer - WARNING - 指定された言語 'japanese' のストップワード設定でエラー: No such file or directory: '/Users/tatsuokw2021/nltk_data/corpora/stopwords/japanese'
+2025-04-07 07:24:32,302 - src.analyzers.keyword_analyzer - INFO - 基本キーワード分析完了: https://waocon.com/
+2025-04-07 07:24:32,302 - src.analyzers.keyword_analyzer - INFO - モックモードで検索ボリュームを生成します
+2025-04-07 07:24:32,302 - src.analyzers.keyword_analyzer - INFO - モックモードでキーワード難易度を生成します
+2025-04-07 07:24:32,303 - src.analyzers.keyword_analyzer - INFO - モックモードでキーワード順位を生成します
+2025-04-07 07:24:32,303 - src.analyzers.keyword_analyzer - INFO - モックモードで関連キーワードを生成します
+2025-04-07 07:24:32,303 - src.analyzers.keyword_analyzer - INFO - 高度なキーワード分析完了: https://waocon.com/
+2025-04-07 07:24:32,305 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:24:32] "[32mPOST /analyze HTTP/1.1[0m" 302 -
+2025-04-07 07:24:32,314 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:24:32] "GET /result/seo_report_20250407_072432.json HTTP/1.1" 200 -
+2025-04-07 07:24:32,345 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:24:32] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 07:24:32,345 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:24:32] "[36mGET /static/js/result.js HTTP/1.1[0m" 304 -
+2025-04-07 07:24:32,345 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:24:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-07 07:24:32,352 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:24:32] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 07:24:32,353 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 07:24:32] "[36mGET /static/js/result.js HTTP/1.1[0m" 304 -
+2025-04-07 12:10:50,185 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 12:10:50,382 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.2.103:5002
+2025-04-07 12:10:50,383 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 12:10:50,384 - werkzeug - INFO -  * Restarting with stat
+2025-04-07 12:10:51,428 - __main__ - INFO - Webインターフェースを起動: ポート 5002
+2025-04-07 12:10:51,452 - werkzeug - WARNING -  * Debugger is active!
+2025-04-07 12:10:51,461 - werkzeug - INFO -  * Debugger PIN: 103-221-200
+2025-04-07 12:10:57,225 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:10:57] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+2025-04-07 12:10:57,226 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:10:57] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+2025-04-07 12:10:57,227 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:10:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-07 12:10:57,293 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:10:57] "GET / HTTP/1.1" 200 -
+2025-04-07 12:11:00,382 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:11:00] "GET / HTTP/1.1" 200 -
+2025-04-07 12:11:00,479 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:11:00] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 12:11:00,481 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:11:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-07 12:11:00,491 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:11:00] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 12:11:19,364 - src.analyzers.keyword_analyzer - WARNING - 指定された言語 'japanese' のストップワード設定でエラー: No such file or directory: '/Users/tatsuokw2021/nltk_data/corpora/stopwords/japanese'
+2025-04-07 12:11:19,470 - src.analyzers.keyword_analyzer - INFO - 基本キーワード分析完了: https://waocon.com/
+2025-04-07 12:11:19,471 - src.analyzers.keyword_analyzer - INFO - モックモードで検索ボリュームを生成します
+2025-04-07 12:11:19,472 - src.analyzers.keyword_analyzer - INFO - モックモードでキーワード難易度を生成します
+2025-04-07 12:11:19,472 - src.analyzers.keyword_analyzer - INFO - モックモードでキーワード順位を生成します
+2025-04-07 12:11:19,472 - src.analyzers.keyword_analyzer - INFO - モックモードで関連キーワードを生成します
+2025-04-07 12:11:19,473 - src.analyzers.keyword_analyzer - INFO - 高度なキーワード分析完了: https://waocon.com/
+2025-04-07 12:11:19,474 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:11:19] "[32mPOST /analyze HTTP/1.1[0m" 302 -
+2025-04-07 12:11:19,520 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:11:19] "GET /result/seo_report_20250407_121119.json HTTP/1.1" 200 -
+2025-04-07 12:11:19,567 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:11:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-07 12:11:19,569 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:11:19] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 12:11:19,571 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:11:19] "[36mGET /static/js/result.js HTTP/1.1[0m" 304 -
+2025-04-07 12:11:19,578 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:11:19] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 12:11:19,578 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 12:11:19] "[36mGET /static/js/result.js HTTP/1.1[0m" 304 -
+2025-04-07 13:15:21,715 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 13:15:21] "GET /result/seo_report_20250407_121119.json HTTP/1.1" 200 -
+2025-04-07 13:22:29,223 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 13:22:29] "GET /result/seo_report_20250407_121119.json HTTP/1.1" 200 -
+2025-04-07 13:22:29,275 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 13:22:29] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 13:22:29,278 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 13:22:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-04-07 13:22:29,282 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 13:22:29] "[36mGET /static/js/result.js HTTP/1.1[0m" 304 -
+2025-04-07 13:22:29,286 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 13:22:29] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-04-07 13:22:29,290 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 13:22:29] "[36mGET /static/js/result.js HTTP/1.1[0m" 304 -
+2025-04-07 13:22:29,756 - werkzeug - INFO - 127.0.0.1 - - [07/Apr/2025 13:22:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
