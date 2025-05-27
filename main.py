@@ -16,7 +16,7 @@ import logging
 from datetime import datetime
 
 # 内部モジュールのインポート
-from src.core.analyzer import SEOAnalyzer
+from seo_master.core.analyzer import SEOAnalyzer
 from src.analyzers.content_analyzer import ContentAnalyzer
 from src.analyzers.link_analyzer import LinkAnalyzer
 from src.analyzers.technical_analyzer import TechnicalAnalyzer
